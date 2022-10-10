@@ -1,0 +1,16 @@
+{
+  "name": "masoninthesis/unlock-protocol",
+  "description": "Unlock Protcol repo, because Wpackagist isn't recognizing v3.2.2.",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/masoninthesis/unlock-protocol",
+  "authors": [
+    {
+      "name": "Unlock Protocol",
+      "homepage": "https://unlock-protocol.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
